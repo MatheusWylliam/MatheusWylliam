@@ -14,7 +14,8 @@ Here you will find what I'm studying and things I'm curious about.</p>
 
 <ul>
  <li> I'm always learning. </li>
- <li> How to reach me: </li>
+ <li> How to reach me: <br>
+   matheus.wylliam@edu.pucrs.br </li>
 </ul>
 
 <h3> Languages & Tools: </h3>
