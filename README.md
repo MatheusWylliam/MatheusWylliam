@@ -9,13 +9,13 @@
 
 <h2>Hi, I'm Matheus</h2>
 
-<p>A software developer and electronics technician who likes programimg, machine learning, and artificial intelligence.<br>
+<p>A <b>software developer</b> and <b>electronics technician</b> who likes programimg, machine learning, and artificial intelligence.<br>
 Here you will find what I'm studying and things I'm curious about.</p>
 
 <ul>
  <li> I'm always learning. </li>
  <li> How to reach me: <br>
-   matheus.wylliam@edu.pucrs.br </li>
+   <b>matheus.wylliam@edu.pucrs.br</b> </li>
 </ul>
 
 <h3> Languages & Tools: </h3>
