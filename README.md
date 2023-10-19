@@ -7,7 +7,7 @@
   </div>
 </h1>
 
-<h2>Hi, I'm Matheus</h2>
+
 
 <p>A <b>software developer</b> and <b>electronics technician</b> who likes programimg, machine learning, and artificial intelligence.<br>
 Here you will find what I'm studying and things I'm curious about.</p>
