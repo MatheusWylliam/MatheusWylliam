@@ -21,7 +21,6 @@ Here you will find what I'm studying and things I'm curious about.</p>
     <img align="center" alt="C++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
     <img align="center" alt="C" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg">
    <img align="center" alt="MySql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
-   <img align="center" alt="Amazon" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg"> 
 </div>
 <div style="display: inline_block"> <br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
