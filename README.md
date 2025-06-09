@@ -21,7 +21,6 @@ Here you will find what I'm studying and things I'm curious about.</p>
    <img align="center" alt=".net" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
    <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg">
    <img align="center" alt="C++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
-   <img align="center" alt="C" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg">
    <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
    <img align="center" alt="Docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
 </div>
