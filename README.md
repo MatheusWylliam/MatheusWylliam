@@ -4,7 +4,7 @@
 
 
 
-<p>A <b>data scientist</b> and <b>electronics technician</b> who likes programimg, machine learning and artificial intelligence.<br>
+<p>A <b>data scientist</b> (PUC) and <b>electronics technician</b> (IFRN) who likes programimg, machine learning and artificial intelligence.<br>
 Here you will find what I'm studying and things I'm curious about.</p>
 
 <ul>
