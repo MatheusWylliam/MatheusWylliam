@@ -13,7 +13,7 @@ Here you will find what I'm studying and things I'm curious about.</p>
    <b>matheus.wylliam@edu.pucrs.br</b> </li>
 </ul>
 
-<h3> Languages & Tools: </h3>
+<h3> Stacks: </h3>
 <div style="display: inline_block"><br>
    <img align="center" alt="R" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg">
    <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
