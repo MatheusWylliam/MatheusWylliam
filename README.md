@@ -1,8 +1,9 @@
-<p>A <b>data scientist</b> (PUC) and <b>electronics technician</b> (IFRN) who likes programimg, machine learning and artificial intelligence.<br>
+<p>A <b>Data Scientist</b> (PUC) and <b>Electronics Technician</b> (IFRN) focus on .NET  back-end development, machine learning and data engineering.<br>
+Focus on data pipelines, RESTful APIs, machine learning models with a strong emphasis on MLOps, and data architecture.
 Here you will find what I'm working, studying and things I'm curious about.</p>
 
 <ul>
- <li> I'm always learning. </li>
+ <li> Exploring topics in MLOps and deep learning — always learning and improving.</li>
  <li> How to reach me: <br>
    <b>matheus.wylliam@edu.pucrs.br</b> </li>
 </ul>
@@ -11,6 +12,9 @@ Here you will find what I'm working, studying and things I'm curious about.</p>
 <p>
    <img align="center" alt="R" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg">
    <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+   <img align="center" alt="ScikitLearn" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg">
+   <img align="center" alt="PyTorch" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg">
+   <img align="center" alt="TensorFlow" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg">
    <img align="center" alt="C#" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg">
    <img align="center" alt=".net" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
    <img align="center" alt="C++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
