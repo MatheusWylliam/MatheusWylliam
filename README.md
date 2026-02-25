@@ -1,8 +1,9 @@
-<p>A <b>Data Scientist</b> (PUC) and <b>Electronics Technician</b> (IFRN) focus on .NET  back-end development, machine learning and data engineering.<br>
+<p>A <b>Data Scientist</b> (UFRN) and <b>Electronics Technician</b> (IFRN) focus on .NET  back-end development, machine learning and data engineering.<br>
 Focus on data pipelines, RESTful APIs, machine learning models emphasis on MLOps, and data architecture.
 Here you will find what I'm working, studying and things I'm curious about.</p>
 
 <ul>
+ <li> Pursuing degree in Systems Analysis and Development (PUC) and Data Science (UFRN).</li>
  <li> Exploring topics in MLOps and deep learning — always learning and improving.</li>
  <li> How to reach me: <br>
    <b>matheus.wylliam@edu.pucrs.br</b> </li>
