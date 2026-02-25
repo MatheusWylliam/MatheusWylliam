@@ -3,7 +3,7 @@ Focus on data pipelines, RESTful APIs, machine learning models emphasis on MLOps
 Here you will find what I'm working, studying and things I'm curious about.</p>
 
 <ul>
- <li> Pursuing degree in Systems Analysis and Development (PUC) and Data Science (UFRN).</li>
+ <li> Undergraduate student in Systems Analysis and Development (PUC) and Data Science (UFRN).</li>
  <li> Exploring topics in MLOps and deep learning — always learning and improving.</li>
  <li> How to reach me: <br>
    <b>matheus.wylliam@edu.pucrs.br</b> </li>
@@ -25,4 +25,4 @@ Here you will find what I'm working, studying and things I'm curious about.</p>
 </p>
 
 ### Languages
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese&nbsp;&nbsp;|&nbsp;&nbsp;![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese&nbsp;&nbsp;|&nbsp;&nbsp;![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English (C1)
