@@ -1,4 +1,4 @@
-<p>A <b>Data Scientist</b> (UFRN) and <b>Electronics Technician</b> (IFRN) focus on .NET (C#, VB), ASP.NET development, machine learning and data engineering.<br>
+<p>A <b>Software Developer</b> (PUC), <b>Data Scientist</b> (UFRN) and <b>Electronics Technician</b> (IFRN) focus on .NET (C#, VB), ASP.NET development, machine learning and data engineering.<br>
 Expertise on data pipelines, RESTful APIs, machine learning models emphasis on MLOps, and data architecture.
 Here you will find what I'm working, studying and things I'm curious about.</p>
 
