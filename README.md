@@ -17,6 +17,7 @@ Here you will find what I'm working, studying and things I'm curious about.</p>
    <img align="center" alt="PyTorch" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg">
    <img align="center" alt="C#" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg">
    <img align="center" alt=".net" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
+   <img align="center" alt="Redis" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg">
    <img align="center" alt="C++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
    <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg">
    <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg">
