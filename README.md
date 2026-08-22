@@ -15,7 +15,6 @@ Here you will find what I'm working, studying and things I'm curious about.</p>
    <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
    <img align="center" alt="ScikitLearn" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg">
    <img align="center" alt="PyTorch" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg">
-   <img align="center" alt="C#" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg">
    <img align="center" alt=".Net" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
    <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
    <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
