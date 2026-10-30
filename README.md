@@ -1,9 +1,9 @@
-<p>A <b>Software Developer</b> (PUC), <b>Data Scientist</b> (UFRN) and <b>Electronics Technician</b> (IFRN) focus on .NET (C#, VB) / React, ASP.NET development, machine learning and data engineering.<br>
+<p>A <b>Software Developer</b> (PUC), <b>TI Technician</b> (UFRN) and <b>Electronics Technician</b> (IFRN) focus on .NET (C#, VB) / React, ASP.NET development, machine learning and data engineering.<br>
 Expertise on data pipelines, RESTful APIs, machine learning models emphasis on MLOps, and data architecture.
 Here you will find what I'm working, studying and things I'm curious about.</p>
 
 <ul>
- <li> Undergraduate student in Systems Analysis and Development (PUC) and Data Science (UFRN).</li>
+ <li> Undergraduate student in Systems Analysis and Development (PUC), TI Technician (UFRN) and Electronics Technician (IFRN).</li>
  <li> Exploring topics in MLOps and deep learning — always learning and improving.</li>
  <li> How to reach me: <br>
    <b>matheus.wylliam@icloud.com</b> </li>
@@ -19,6 +19,7 @@ Here you will find what I'm working, studying and things I'm curious about.</p>
    <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
    <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
    <img align="center" alt="Redis" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg">
+   <img align="center" alt="RabbitMQ" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg">
    <img align="center" alt="C++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
    <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg">
    <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg">
