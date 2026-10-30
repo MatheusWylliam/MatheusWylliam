@@ -3,7 +3,7 @@ Expertise on data pipelines, RESTful APIs, machine learning models emphasis on M
 Here you will find what I'm working, studying and things I'm curious about.</p>
 
 <ul>
- <li> Undergraduate student in Systems Analysis and Development (PUC), TI Technician (UFRN) and Electronics Technician (IFRN).</li>
+ <li> Undergraduate Systems Analysis and Development (PUC), TI Technician (UFRN) and Electronics Technician (IFRN).</li>
  <li> Exploring topics in MLOps and deep learning — always learning and improving.</li>
  <li> How to reach me: <br>
    <b>matheus.wylliam@icloud.com</b> </li>
